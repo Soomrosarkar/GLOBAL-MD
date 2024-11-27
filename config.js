@@ -17,10 +17,10 @@ global.owner = ownerlist.map((owner, i) => ({
 
 console.log(global.owner);
 
-global.botNumber = '923051391007'; // Put your number here for pairing directly
-global.mods = ['923444844060'];
-global.prems = ['923444844060'];
-global.allowed = ['923444844060'];
+global.botNumber = '923258960026'; // Put your number here for pairing directly
+global.mods = ['923258960026'];
+global.prems = ['923258960026'];
+global.allowed = ['923258960026'];
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124'];
 global.keysxxx = keysZens[Math.floor(Math.random() * keysZens.length)];
 
